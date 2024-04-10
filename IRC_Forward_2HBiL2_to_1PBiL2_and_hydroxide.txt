@@ -1,0 +1,8 @@
+# Total Energy along IRC
+# X-Axis:  Intrinsic Reaction Coordinate
+# Y-Axis:  Total Energy (Hartree)
+#                  X                   Y
+        0.0000000000     -899.4363487080
+        0.3420000000     -899.4364059610
+        0.6840000000     -899.4365717230
+        1.0259900000     -899.4368810730
